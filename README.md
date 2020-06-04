@@ -1,6 +1,6 @@
 # Flood-it
 
-A simple terminal game used as an introdution for Ruby
+A simple terminal game used as an introdution to Ruby
 
 ## Installation
 
